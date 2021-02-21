@@ -2,6 +2,6 @@
  <samp>
 ♟️ the lord of the game ♟️
 <br>
+<a href="https://geremachek.io">web</a>
  </samp>
-<a src="https://geremachek.io">web</a>
 </p>
